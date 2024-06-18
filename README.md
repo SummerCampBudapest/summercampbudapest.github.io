@@ -1,3 +1,3 @@
-# Summer Camp in Budapest - Segédanyagok
+# Segédanyagok
 
 
