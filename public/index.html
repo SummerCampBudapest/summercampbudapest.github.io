@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teaching Materials Upload</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Your Teaching Materials</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".pdf,.ppt,.pptx" required>
+            <button type="submit">Upload</button>
+        </form>
+        <div id="message"></div>
+        <h2>Uploaded Files</h2>
+        <ul id="fileList"></ul>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
