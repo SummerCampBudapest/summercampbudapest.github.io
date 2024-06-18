@@ -1,2 +1,3 @@
-# summercampbudapest.github.io
-homepage for teaching material
+# Summer Camp in Budapest - Segédanyagok
+
+
